@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello! I'm **Indra**, a final year undergrad in Computer Science (bioinformatics). 
+### I'm eager to dive into GitHub, collaborating on projects, and learning from the community to further my skills in technology and life sciences.
+
 
 <!--
 **Ind2221/Ind2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
